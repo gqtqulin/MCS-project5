@@ -59,12 +59,16 @@
     align-items: center;
 }
 
+.border-style {
+    border: 3px #F8BFC7 solid;
+    border-radius: 20px; 
+}
+
 .our-water-container {
     width: 1040px;
     height: 280px;
-    border: 3px #F8BFC7 solid;
-    border-radius: 20px;
 }
+
 
 .our-water-container p {
     font-family: Arial;
@@ -108,8 +112,6 @@
     align-items: center;
     height: 280px;
     width: 1040px;
-    border: 3px #F8BFC7 solid;
-    border-radius: 20px;
 }
 
 .composition-container-inside {
